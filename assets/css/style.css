@@ -14,7 +14,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* remove div elements on the side */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* area just for the navigation bar */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* anchor tags AKA the navigation links */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* image of the people conversating at the table */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* attributes to the small section to teh right of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* individual paragraphs section */
 .figcaption {
     margin-bottom: 20px;
     padding: 50px;
